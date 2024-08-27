@@ -12,7 +12,7 @@ gem "sprockets-rails"
 # gem "sqlite3", "~> 1.4"
 
 # postgres db support
-gem 'pg', '~> 0.18.2'
+gem 'pg', '~> 1.1'
 
 #use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
